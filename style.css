@@ -230,7 +230,8 @@ html, body {
 .u41{
     background: url(https://www.apple.com/in/home/images/promos/apple-watch-series-11/promo_apple_watch_series_11__b63hxviqvonm_medium.jpg);
     height: 100%;
-    width: 49.1%;
+    /* width: 49.1%; */
+    width: calc(50% - 10px);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -257,7 +258,8 @@ html, body {
 .u42{
     background: url(https://www.apple.com/in/home/images/promos/apple-watch-se-3/promo_apple_watch_se_3__fz5y29qx5mmy_medium.jpg);
     height: 100%;
-    width: 49.1%;
+    /* width: 49.1%; */
+    width: calc(50% - 10px);
     background-position: center;
     background-size: cover;
     display: flex;
