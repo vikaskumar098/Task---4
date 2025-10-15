@@ -6,7 +6,7 @@ A responsive **Apple (India) landing page clone** built with **HTML & CSS**. Thi
 
 ## 📌 Repository Info
 
-* **Repo name:** Task--4
+* **Repo name:** Task-4
 * **Branch:** `main`
 * **Files included:**
 
