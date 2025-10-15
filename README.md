@@ -1,4 +1,4 @@
-# Task--4 — Apple (India) Clone 🚀
+# Task-4 — Apple (India) Clone 🚀
 
 A responsive **Apple (India) landing page clone** built with **HTML & CSS**. This project is part of my frontend learning journey and replicates the style of Apple's official site with hero sections, product highlights, and a clean navigation bar.
 
